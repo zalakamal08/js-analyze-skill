@@ -1,0 +1,11 @@
+# agent/session config — never publish
+CLAUDE.md
+.claude/
+AGENTS.md
+.cursorrules
+
+# local recon output / artifacts
+recon/
+*.log
+__pycache__/
+*.pyc
